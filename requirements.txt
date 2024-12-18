@@ -1,0 +1,14 @@
+# python 3.8.10 is the preferred Python version
+MetaTrader5
+numpy== 1.24.3 # 1.21.6  # Compatible with MetaTrader5
+pandas
+tqdm
+
+TA-Lib # install visual code community and then download & Run TA-Lib in powwershell, Watch youtube video on that
+
+# Fot sensitive information
+python-dotenv
+
+# For Chart
+plotly
+#nbformat  # ==5.1.3
