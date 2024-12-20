@@ -5,6 +5,7 @@ pandas
 tqdm
 
 TA-Lib # install visual code community and then download & Run TA-Lib in powwershell, Watch youtube video on that
+	# link: https://pypi.org/project/TA-Lib/
 
 # Fot sensitive information
 python-dotenv
