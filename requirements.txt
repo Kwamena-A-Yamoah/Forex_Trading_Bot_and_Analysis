@@ -12,4 +12,5 @@ python-dotenv
 
 # For Chart
 plotly
+matplotlib
 #nbformat  # ==5.1.3
