@@ -4,13 +4,27 @@ numpy== 1.24.3 # 1.21.6  # Compatible with MetaTrader5
 pandas
 tqdm
 
-TA-Lib # install visual code community and then download & Run TA-Lib in powwershell, Watch youtube video on that
+TA-Lib # Download & Run TA-Lib in powershell, Watch youtube video on that
 	# link: https://pypi.org/project/TA-Lib/
+	# How to install: https://www.youtube.com/watch?v=-mGeD9FSUZI
 
-# Fot sensitive information
+#For backtesting
+backtesting
+
+# ======== Fot sensitive information
 python-dotenv
 
 # For Chart
 plotly
 matplotlib
 #nbformat  # ==5.1.3
+
+# For forex calender
+wbdata
+investpy
+
+# ======== For Sentiment Analysis and Web Scraping
+# nltk
+
+# For webscraping
+beautifulsoup4
