@@ -23,6 +23,9 @@ matplotlib
 wbdata
 investpy
 
+# trendline detection
+# trendln
+
 # ======== For Sentiment Analysis and Web Scraping
 # nltk
 
