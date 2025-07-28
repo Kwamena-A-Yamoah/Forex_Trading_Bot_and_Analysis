@@ -32,7 +32,7 @@ investpy
 # For webscraping
 beautifulsoup4
 
-
+# Requirement for bot. Run this in bot
 # MetaTrader5==5.0.4993
 # numpy==2.2.6
 # pandas==2.2.3
